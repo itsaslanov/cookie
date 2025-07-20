@@ -1,6 +1,3 @@
-
-<img src="https://github.com/user-attachments/assets/60e53081-07a4-4830-a8fb-ebac7aef75a5" alt="Project Preview" style="border-radius: 3px; width: 300px;" />
-
 ## About
 At JOINUS KOREA, my role as a Full-stack Developer was to collaborate with my team to resolve issues and contribute to small-scale projects, honing my skills in Python and Source Code Control System. Our efforts were coordinated through regular Zoom meetings and Kakaotalk discussions, ensuring agile problem-solving and continual learning.
 
